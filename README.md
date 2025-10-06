@@ -1,2 +1,2 @@
 # Trabalho1
-Trabalho lógica programação e algoritmos
+Trabalho da faculdade de Análise e Desenvolvimento de Sistemas na matéria de lógica programação e algoritmos
